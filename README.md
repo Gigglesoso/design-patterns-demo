@@ -1,2 +1,1 @@
-# design-patterns-demo
-设计模式的小demo
+各个设计模式的demo
